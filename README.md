@@ -28,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Adarsh0495/leetcode/tree/master/0283-move-zeroes) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh0495/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Adarsh0495/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
