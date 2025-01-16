@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adarsh0495/leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Adarsh0495/leetcode/tree/master/0043-multiply-strings) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh0495/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Adarsh0495/leetcode/tree/master/0283-move-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Adarsh0495/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
