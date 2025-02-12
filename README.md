@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Adarsh0495/leetcode/tree/master/0043-multiply-strings) |
+| [2058-concatenation-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adarsh0495/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh0495/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2058-concatenation-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh0495/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
