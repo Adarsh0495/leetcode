@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adarsh0495/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Adarsh0495/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
+| [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Adarsh0495/leetcode/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/Adarsh0495/leetcode/tree/master/0627-swap-salary) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Adarsh0495/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Adarsh0495/leetcode/tree/master/1827-invalid-tweets) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
