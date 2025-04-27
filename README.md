@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh0495/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adarsh0495/leetcode/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adarsh0495/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Adarsh0495/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Adarsh0495/leetcode/tree/master/0344-reverse-string) |
 ## Stack
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adarsh0495/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adarsh0495/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh0495/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh0495/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adarsh0495/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adarsh0495/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Adarsh0495/leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
