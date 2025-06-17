@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Adarsh0495/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Adarsh0495/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Adarsh0495/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Adarsh0495/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Adarsh0495/leetcode/tree/master/0231-power-of-two) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adarsh0495/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Adarsh0495/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adarsh0495/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Adarsh0495/leetcode/tree/master/0043-multiply-strings) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh0495/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Adarsh0495/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Adarsh0495/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh0495/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adarsh0495/leetcode/tree/master/0169-majority-element) |
