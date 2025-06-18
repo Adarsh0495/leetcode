@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adarsh0495/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh0495/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2058-concatenation-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Adarsh0495/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh0495/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Adarsh0495/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Adarsh0495/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
