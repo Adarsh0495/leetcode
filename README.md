@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adarsh0495/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Adarsh0495/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Adarsh0495/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Adarsh0495/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Adarsh0495/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
 | [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adarsh0495/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Adarsh0495/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
