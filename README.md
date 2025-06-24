@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adarsh0495/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh0495/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0941-sort-array-by-parity](https://github.com/Adarsh0495/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2058-concatenation-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Adarsh0495/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh0495/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adarsh0495/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Adarsh0495/leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Adarsh0495/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Adarsh0495/leetcode/tree/master/0941-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Adarsh0495/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/Adarsh0495/leetcode/tree/master/0941-sort-array-by-parity) |
 ## Database
 |  |
 | ------- |
