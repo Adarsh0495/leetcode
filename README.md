@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Adarsh0495/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Adarsh0495/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Adarsh0495/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Adarsh0495/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Adarsh0495/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
 | [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
@@ -158,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adarsh0495/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adarsh0495/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adarsh0495/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
