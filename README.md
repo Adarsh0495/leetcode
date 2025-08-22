@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adarsh0495/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Adarsh0495/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Adarsh0495/leetcode/tree/master/0412-fizz-buzz) |
 | [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Adarsh0495/leetcode/tree/master/2383-add-two-integers) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Adarsh0495/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Adarsh0495/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adarsh0495/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Adarsh0495/leetcode/tree/master/0412-fizz-buzz) |
 | [0841-shortest-distance-to-a-character](https://github.com/Adarsh0495/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh0495/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Adarsh0495/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Adarsh0495/leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Adarsh0495/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
