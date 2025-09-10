@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adarsh0495/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adarsh0495/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Adarsh0495/leetcode/tree/master/0412-fizz-buzz) |
+| [1086-divisor-game](https://github.com/Adarsh0495/leetcode/tree/master/1086-divisor-game) |
 | [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Adarsh0495/leetcode/tree/master/2383-add-two-integers) |
 ## String
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adarsh0495/leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Adarsh0495/leetcode/tree/master/0338-counting-bits) |
+| [1086-divisor-game](https://github.com/Adarsh0495/leetcode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -200,8 +202,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Adarsh0495/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Adarsh0495/leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Adarsh0495/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Adarsh0495/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
