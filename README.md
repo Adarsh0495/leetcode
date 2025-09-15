@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Adarsh0495/leetcode/tree/master/0412-fizz-buzz) |
 | [1086-divisor-game](https://github.com/Adarsh0495/leetcode/tree/master/1086-divisor-game) |
 | [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Adarsh0495/leetcode/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Adarsh0495/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Adarsh0495/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2058-concatenation-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Adarsh0495/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh0495/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Adarsh0495/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Adarsh0495/leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Adarsh0495/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
 | ------- |
